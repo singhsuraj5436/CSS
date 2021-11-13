@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  background-color: #fff9b6;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -29,21 +28,21 @@ span {
 
 .top-container {
   background-color: orange;
+
   position: relative;
   padding-top: 100px;
-  width:100%;
 }
 
 .middle-container {
-  width:100%;
-
+ background-color: #fff9b6;
+ padding-top: 50px;
+ padding-bottom: 15px;
 }
 
 .bottom-container {
   background-color: #FF8243;
-  padding-top: 5px;
+  padding-top: 10px;
   padding-bottom: 15px;
-  width:100%;
 
 }
 
@@ -58,6 +57,11 @@ span {
   bottom: 300px;
   left: 20%;
 }
+
+.click{
+  background-color: orange;
+}
+
 .space{
   margin-bottom: 0;
 }

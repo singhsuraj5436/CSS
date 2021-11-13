@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #fff9b6;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -34,7 +35,6 @@ span {
 }
 
 .middle-container {
- background-color: #fff9b6;
  padding-top: 50px;
  padding-bottom: 15px;
 }

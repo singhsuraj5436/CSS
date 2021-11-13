@@ -31,9 +31,11 @@ span {
   background-color: orange;
   position: relative;
   padding-top: 100px;
+  width:100%;
 }
 
 .middle-container {
+  width:100%;
 
 }
 
@@ -41,19 +43,20 @@ span {
   background-color: #FF8243;
   padding-top: 5px;
   padding-bottom: 15px;
+  width:100%;
 
 }
 
 .first-cloud {
   position: absolute;
-  right: 300px;
+  right: 20%;
   top: 50px;
 }
 
 .second-cloud {
   position: absolute;
   bottom: 300px;
-  left: 300px;
+  left: 20%;
 }
 .space{
   margin-bottom: 0;

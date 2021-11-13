@@ -58,3 +58,11 @@ span {
 .space{
   margin-bottom: 0;
 }
+
+.line{
+  border: none;
+  border-top: dotted;
+  border-color: orange;
+  border-width: 5px;
+  width:5%;
+}

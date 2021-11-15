@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #fff9b6;
+  background-color: #FEF9EF;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -22,7 +22,7 @@ h3 {
 }
 
 p{
-  color:#B000B9;
+  color:red;
 }
 
 .pro{
@@ -30,7 +30,7 @@ p{
 }
 
 .top-container {
-  background-color: orange;
+  background-color: #A2D2FF;
 
   position: relative;
   padding-top: 100px;
@@ -42,7 +42,7 @@ p{
 }
 
 .bottom-container {
-  background-color: #FF8243;
+  background-color: #FF865E;
   padding-top: 10px;
   padding-bottom: 15px;
 

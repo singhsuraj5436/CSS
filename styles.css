@@ -61,7 +61,7 @@ p{
 }
 
 .click{
-  background-color: orange;
+  background-color: blue;
 }
 
 .space{
@@ -71,7 +71,7 @@ p{
 .line{
   border: none;
   border-top: dotted;
-  border-color: orange;
+  border-color: #FF865E;
   border-width: 5px;
   width:5%;
 }

@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: #FEF9EF;
+  width:auto;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -31,7 +32,7 @@ p{
 
 .top-container {
   background-color: #A2D2FF;
-
+  width:auto;
   position: relative;
   padding-top: 100px;
 }
@@ -43,6 +44,7 @@ p{
 
 .bottom-container {
   background-color: #FF865E;
+  width:auto;
   padding-top: 10px;
   padding-bottom: 15px;
 
@@ -50,14 +52,14 @@ p{
 
 .first-cloud {
   position: absolute;
-  right: 20%;
+  right: 15%;
   top: 50px;
 }
 
 .second-cloud {
   position: absolute;
   bottom: 300px;
-  left: 20%;
+  left: 15%;
 }
 
 .click{

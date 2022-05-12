@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: white;
+  background-color: #C4DDFF;
   width: auto;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -31,7 +31,7 @@ img.pro {
 }
 
 div.top-container {
-  background-color: #A2D2FF;
+  background-color: #7FB5FF;
   width: auto;
   position: relative;
   padding-top: 100px;
@@ -43,7 +43,7 @@ div.top-container {
 }
 
 .bottom-container {
-  background-color: #020b0f;
+  background-color: #001D6E;
   width: auto;
   padding-top: 10px;
   padding-bottom: 15px;
@@ -83,14 +83,14 @@ div.top-container {
   text-decoration:none; 
   text-align:center; 
   padding:11px 32px; 
-  border:solid 1px #020b0f; 
+  border:solid 1px #001D6E; 
   -webkit-border-radius:7px;
   -moz-border-radius:7px; 
   border-radius: 7px; 
   font:18px Arial, Helvetica, sans-serif; 
   font-weight:bold; 
   color:white; 
-  background-color:#020b0f; 
+  background-color:#001D6E; 
   }
 
 
@@ -103,7 +103,7 @@ div.top-container {
 .line {
   border: none;
   border-top: dotted;
-  border-color: #020b0f;
+  border-color: #001D6E;
   border-width: 5px;
   width: 5%;
 }

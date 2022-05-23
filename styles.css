@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #C4DDFF;
+  background-color: #fff;
   width: auto;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -36,7 +36,7 @@ p {
 }
 
 .top-container {
-  background-color: #7FB5FF;
+  background-color: #ff4c68;
   width: auto;
   position: relative;
   padding-top: 100px;
@@ -49,22 +49,21 @@ p {
 }
 
 .bottom-container {
-  background-color: #001D6E;
+  background-color: #ff4c68;
   width: auto;
-  padding-top: 10px;
+  padding-top: 30px;
   padding-bottom: 15px;
 }
 
 .first-cloud {
   position: absolute;
-  right: 15%;
+  right: 10%;
   top: 20px;
 }
 
 .second-cloud {
   position: absolute;
-  bottom: 120px;
-  left: 15%;
+  left: 10%;
 }
 
 .skill {
@@ -73,6 +72,7 @@ p {
 }
 
 .profile {
+  padding-top: 5rem;;
   line-height: 2;
 }
 
@@ -86,32 +86,22 @@ p {
   margin-bottom: 20px;
 }
 
-.button {
-  text-decoration: none;
-  text-align: center;
-  padding: 11px 32px;
-  border: solid 1px #001D6E;
-  -webkit-border-radius: 7px;
-  -moz-border-radius: 7px;
-  border-radius: 7px;
-  font: 18px Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  color: white;
-  background-color: #001D6E;
+#clk:hover{
+  background-color: #ff4c68;  
 }
 
 .space {
-  margin-top: 20px;
-  margin-bottom: 0;
+  margin-top: 10px;
+  margin-bottom: 10;
   color: white;
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 
 /* .line {
   margin: 0 50% 0 50%;
   border: none;
   border-top: dotted;
-  border-color: #001D6E;
+  border-color: #ff4c68;
   border-width: 5px;
   width: 10%;
 } */

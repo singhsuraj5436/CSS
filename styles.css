@@ -43,6 +43,10 @@ p {
   padding-bottom: 200px;
 }
 
+.front {
+  color: #fff;
+}
+
 .middle-container {
   padding-top: 50px;
   padding-bottom: 15px;
@@ -72,7 +76,8 @@ p {
 }
 
 .profile {
-  padding-top: 5rem;;
+  padding-top: 5rem;
+  ;
   line-height: 2;
 }
 
@@ -86,8 +91,8 @@ p {
   margin-bottom: 20px;
 }
 
-#clk:hover{
-  background-color: #ff4c68;  
+#clk:hover {
+  background-color: #ff4c68;
 }
 
 .space {
